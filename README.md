@@ -193,7 +193,7 @@ Stay Connected
 
 👉 Join for more updates and future releases: https://linktr.ee/EarlyCTs
 
-If you run into any issues, You can also reach out to me directly via DM if needed.
+If you run into any issues, You can also reach me directly via DM.
 
 Thanks for checking out this.
 
