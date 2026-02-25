@@ -19,7 +19,7 @@ I’m building a simple calculator as a mini dApp on Base.  The idea is straight
 
 3.) Create @baseapp :- https://base.app/invite/friends/S7ZX04QK
 
-● Must link your farcaster account in base app
+* >Must link your farcaster account in base app
 
 
 <div align="center">
@@ -45,7 +45,7 @@ Create the Calculator Application
 
 ■ Step 2 : 
 
-Deploy the project & copy the url & save it .
+* >Deploy the project & copy the url & save it .
 
 
 ■ Step 3 :  
@@ -142,41 +142,41 @@ Update Next.js Configuration
 ```
 ■ Step 8 : 
 
-•• Now for one time , click on deploy & deploy again 
+* >Now for one time , click on deploy & deploy again 
 
-•• Then Open Farcaster in Pc/Laptop 
+Then Open Farcaster in Pc/Laptop 
 
-•• Enable Developer Mode 
+* >Enable Developer Mode 
 
-•• go to Developer section then & click on Mini app manifest tools 
+* >go to Developer section then & click on Mini app manifest tools 
 
-•• then paste url ( check vidoe ) 
+* >then paste url ( check vidoe ) 
 
-•• then click on fetch & then click on Genrate account association 
+* >then click on fetch & then click on Genrate account association 
 
-•• scan qr code and verify your farcaster account 
+* >scan qr code and verify your farcaster account 
 
-•• Now copy everything and paste in V0 ( add prompt ) 
+* >Now copy everything and paste in V0 ( add prompt ) 
 
 Add this as account association  
 
-•• then Reverify and Submit .
+* >then Reverify and Submit .
 
 
 ■ Step 9 : 
 
 Download Base App : https://play.google.com/store/apps/details?id=org.toshi
 
-•• Create Account with email 
+* >Create Account with email 
 
-•• then connect same farcaster account 
+* >then connect same farcaster account 
 
 
-● Then Visit : https://www.base.dev/
+* Then Visit : https://www.base.dev/
 
-•• signin with same base app email . 
+* >signin with same base app email . 
 
-•• and follow video process
+* >and follow video process
 
 Done✔️✔️
 
