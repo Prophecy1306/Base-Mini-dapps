@@ -14,7 +14,7 @@ I’m building a simple calculator as a mini dApp on Base.  The idea is straight
 </div>
 
 
-##  **Pre-Requirements⚙️**
+##  **Basic-Requirements⚙️**
 
 1.) Create V0 account :- https://v0.app/ref/S4PSH0
 
@@ -92,11 +92,12 @@ My url link :
   }
 }
 ```
+
 ■ Step 4 : 
 
 Added Required Images
 
-* >i attach a image , so convert that image as required ratio and attach the same image in our mini app for all 3 forms .
+* i attach a image , so convert that image as required ratio and attach the same image in our mini app for all 3 forms .
 
 * >icon.png (300×300px) - A small icon of your app
 
@@ -121,6 +122,7 @@ Added Embed Metadata
 
 - Splash image and background color
 ```
+
 ■ Step 6: 
 ```
 Added Farcaster Miniapp SDK Integration
@@ -133,6 +135,7 @@ Added Farcaster Miniapp SDK Integration
 
 - This is the critical step that tells Base to hide the splash screen and display your calculator
 ```
+
 ■ Step 7: 
 ```
 Update Next.js Configuration
@@ -143,6 +146,7 @@ Update Next.js Configuration
 
 - Remove webpack-specific configurations
 ```
+
 ■ Step 8 : 
 
 * >Now for one time , click on deploy & deploy again 
