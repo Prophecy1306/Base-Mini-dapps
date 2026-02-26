@@ -22,7 +22,7 @@ I’m building a simple calculator as a mini dApp on Base.  The idea is straight
 
 3.) Create @baseapp :- https://base.app/invite/friends/S7ZX04QK
 
-* >Must link your farcaster account in base app
+* >Must link your `farcaster` account in `base app`
 
 
 <div align="center">
