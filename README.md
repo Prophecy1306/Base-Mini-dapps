@@ -147,7 +147,7 @@ Update Next.js Configuration
 - Remove webpack-specific configurations
 ```
 
-■ Step 8 : 
+■ Step 8 : [Mini App Ownership]
 
 * >Now for one time , click on deploy & deploy again 
 
@@ -170,7 +170,7 @@ Add this as account association
 * >then Reverify and Submit .
 
 
-■ Step 9 : 
+■ Step 9 : [Register Domain]
 
 Download Base App : https://play.google.com/store/apps/details?id=org.toshi
 
