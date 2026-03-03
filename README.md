@@ -123,6 +123,8 @@ Added Required Images
 ```
 * Deploy Vercel
 
+There are no changes to be made in `step 5` just copy and deploy it to Vercel.
+
 ■ Step 5 
 ```
 Added Embed Metadata
@@ -139,6 +141,7 @@ Added Embed Metadata
 
 - Splash image and background color
 ```
+* Deploy Vercel
 
 ■ Step 6: 
 ```
