@@ -181,7 +181,8 @@ Once all these steps are completed then you will have to go to `Publish` and mak
 
 * >Wait until this is `completed` and Until then do not apply the next steps.
 
-■ Step 8 : [Mini App Ownership]
+
+■ Step 8 : `Mini App Ownership`
 
 * >Now for one time , click on deploy & deploy again 
 
