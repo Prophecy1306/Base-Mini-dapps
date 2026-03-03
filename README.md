@@ -123,6 +123,8 @@ Added Required Images
 ```
 * Deploy Vercel
 
+If it asks you to `skip` or `accept` something → `accept` it.
+
 There are no changes to be made in `step 5` just copy and deploy it to Vercel.
 
 ■ Step 5 
@@ -142,6 +144,8 @@ Added Embed Metadata
 - Splash image and background color
 ```
 * Deploy Vercel
+
+Also, There If it asks you to `skip` or `accept` something → `accept` it.
 
 Also, There are no changes to be made in `step 6` just copy and deploy it to Vercel.
 
